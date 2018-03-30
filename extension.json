@@ -1,0 +1,6 @@
+{
+  "id": "a-unique-id-for-your-ui-extension",
+  "name": "A Unique Name For Your UI Extension",
+  "srcdoc": "./build/index.html",
+  "fieldTypes": ["Text"]
+}
